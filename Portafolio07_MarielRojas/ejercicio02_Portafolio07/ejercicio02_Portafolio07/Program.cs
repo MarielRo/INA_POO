@@ -10,20 +10,20 @@ namespace ejercicio02_Portafolio07
     {
         static void Main(string[] args)
         {
+            double salarioBase, ventasMensuales, comision, salarioBruto; // variables declaradas 
+
             Console.WriteLine("Digite el salario base mensual del empleado:");
-            double salarioBase;
             salarioBase = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Digite el monto total de las ventas realizadas durante este mes:");
-            double ventasMensuales;
             ventasMensuales = Convert.ToDouble(Console.ReadLine());
 
-            double comision = ventasMensuales * 0.1; // 10% de comisión sobre las ventas
-            double salarioBruto = salarioBase + comision; // salario bruto sumando el salario base y la comisión
+            comision = ventasMensuales * 0.1; // 10% de comisión sobre las ventas
+            salarioBruto = salarioBase + comision; // salario bruto sumando el salario base y la comisión
 
             Console.WriteLine($"El salario bruto mensual es: {salarioBruto}");
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

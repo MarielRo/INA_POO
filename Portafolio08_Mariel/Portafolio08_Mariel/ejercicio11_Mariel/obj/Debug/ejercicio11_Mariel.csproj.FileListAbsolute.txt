@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\bin\Debug\ejercicio11_Mariel.exe.config
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\bin\Debug\ejercicio11_Mariel.exe
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\bin\Debug\ejercicio11_Mariel.pdb
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\obj\Debug\ejercicio11_Mariel.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\obj\Debug\ejercicio11_Mariel.exe
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\obj\Debug\ejercicio11_Mariel.pdb
+C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio11_Mariel\obj\Debug\ejercicio11_Mariel.csproj.AssemblyReference.cache

@@ -13,7 +13,7 @@ namespace ejercicio05_Portafolio07
             Console.WriteLine("Digite la cantidad de megabytes:");
             double megabytes = Convert.ToDouble(Console.ReadLine());
 
-            double bits = megabytes * 8000000; // 
+            double bits = megabytes * 8 * 1024 * 1024; // 
             double bytes = megabytes * 1024 * 1024;
             double kilobytes = megabytes * 1024;
             double gigabytes = megabytes / 1024;
