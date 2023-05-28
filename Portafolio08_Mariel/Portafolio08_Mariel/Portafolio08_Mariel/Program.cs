@@ -13,10 +13,11 @@ namespace Ejercicio02_Mariel
          * un número debe preguntar si desea ingresar otro.*/
         static void Main(string[] args)
         {
-
+            //Declaración de variables
             int mayoresIguales = 0, menores = 0, numero;
             string respuesta = "";
             bool salir = true;
+
             while (salir)
             {
                 Console.WriteLine("Ingrese un número");
@@ -31,7 +32,7 @@ namespace Ejercicio02_Mariel
                 }
                 Console.WriteLine("¿Desea ingresar otro número?(s/n)");
                 respuesta = Console.ReadLine();
-                if (respuesta != "s")
+                if (respuesta != "s") // si la respuesta es diferente de si entonces se sale del ciclo
                 {
                     salir = false;
                 }

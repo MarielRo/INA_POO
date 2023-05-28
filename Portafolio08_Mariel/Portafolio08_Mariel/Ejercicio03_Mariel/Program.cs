@@ -18,17 +18,24 @@ namespace Ejercicio03_Mariel
             {
                 Console.WriteLine($"Digite la nota del alumno {i}");
                 nota = int.Parse(Console.ReadLine());
-                if (nota >= 70)
+                if(nota > 0 && nota <= 100 )
                 {
+                    if (nota >= 70)
+                    {
                     aprobados++;
+                    }
+                    else
+                    {
+                    reprobados++;
+                    }
+                
+                    i++; // contador
                 }
                 else
                 {
-                    reprobados++;
+                    Console.WriteLine($"Digite la nota del alumno, la nota debe ser mayor a cero y menor a 100");
                 }
-
-                i++; // contador 
-            }
+                            }
 
             Console.WriteLine($"Aprobaron {aprobados} alumnos.\n " +
                $"Reprobaron {reprobados} alumnos.\n");

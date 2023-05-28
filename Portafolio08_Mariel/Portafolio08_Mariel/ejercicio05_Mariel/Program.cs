@@ -14,18 +14,18 @@ namespace ejercicio05_Mariel
         {
             //declaración de variables
             int i = 0, numero, cantNegativos = 0;
-            bool continuar = true;
+            bool salir = true; // cuando salir sea falso, se sale del ciclo
 
-            while (continuar) {
-                Console.WriteLine("Digite un número");
+            while (salir) {
+                Console.WriteLine("Digite un número, cuando se digiten 5 negativos el programa termina");
                 numero = int.Parse(Console.ReadLine());
 
-                if (numero < 0)
+                if (numero < 0) // numero negativos
                 {
                     cantNegativos++;
 
                     if (cantNegativos >= 5)
-                        continuar = false;
+                        salir = false;
                 }
 
                 i++; // Contador de ciclos realizados, (números digitados)

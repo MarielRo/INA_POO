@@ -1,0 +1,7 @@
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\bin\Debug\Portafoli_09_Mariel.exe.config
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\bin\Debug\Portafoli_09_Mariel.exe
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\bin\Debug\Portafoli_09_Mariel.pdb
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\obj\Debug\Portafoli_09_Mariel.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\obj\Debug\Portafoli_09_Mariel.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\obj\Debug\Portafoli_09_Mariel.exe
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio09_Mariel\Portafoli_09_Mariel\Portafoli_09_Mariel\obj\Debug\Portafoli_09_Mariel.pdb

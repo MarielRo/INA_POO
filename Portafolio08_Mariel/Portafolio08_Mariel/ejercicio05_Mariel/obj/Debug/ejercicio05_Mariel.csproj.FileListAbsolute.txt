@@ -5,3 +5,10 @@ C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Marie
 C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\bin\Debug\ejercicio05_Mariel.pdb
 C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\obj\Debug\ejercicio05_Mariel.exe
 C:\Users\marie\Desktop\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\obj\Debug\ejercicio05_Mariel.pdb
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\bin\Debug\ejercicio05_Mariel.exe.config
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\bin\Debug\ejercicio05_Mariel.exe
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\bin\Debug\ejercicio05_Mariel.pdb
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\obj\Debug\ejercicio05_Mariel.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\obj\Debug\ejercicio05_Mariel.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\obj\Debug\ejercicio05_Mariel.exe
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio08_Mariel\Portafolio08_Mariel\ejercicio05_Mariel\obj\Debug\ejercicio05_Mariel.pdb

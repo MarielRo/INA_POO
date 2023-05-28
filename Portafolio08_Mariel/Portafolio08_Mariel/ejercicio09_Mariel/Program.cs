@@ -13,19 +13,18 @@ namespace ejercicio09_Mariel
         {
             //declaración de variables 
             int i = 0, numeros;
-
-            while (true)
+            bool salir = true;
+            while (salir)
             {
                 Console.WriteLine($"Digite un número");
                 numeros = int.Parse(Console.ReadLine());
-
+                i++;
                 if (numeros % 5 == 0)
                 {
-
-                    break; // se sale el ciclo while
+                    salir = false;
                 }
 
-                i++;
+                
             }
 
             Console.WriteLine($"Se ingresaron {i} números.");

@@ -34,7 +34,6 @@ namespace Ejercicio01_Mariel
                 }
 
                 i++;
-
             }
 
             Console.WriteLine($"La cantidad de números positivos fue de: {positivo}." +

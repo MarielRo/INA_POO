@@ -17,11 +17,12 @@ namespace ejercicio06_Mariel
             while(i <= 10)
             {
                 Console.WriteLine($"{i}).Digite un número para sumarlo");
-                numeros = int.Parse(Console.ReadLine());
+                numeros = int.Parse(Console.ReadLine()); // usar try parse
                 suma += numeros;
                 i++;
-
+                Console.WriteLine("\n"); // salto de linea 
             }
+
             Console.WriteLine($"La suma de los números digitados es de: {suma}");
             Console.ReadKey();
 

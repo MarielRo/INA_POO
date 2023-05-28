@@ -19,14 +19,14 @@ namespace ejercicio04_Mariel
 
             while (i <= cantiNum) 
             {
-                Console.WriteLine($"{i}.Digite un número");
+                Console.WriteLine($"{i}).Digite un número");
                 numero = int.Parse(Console.ReadLine());
-                if (numero % 2 == 0)
+                if (numero % 2 == 0) // numeros pares
                     pares++;
                 else
-                    impares++;
+                    impares++; // impares
 
-                if (numero % 3 == 0)
+                if (numero % 3 == 0) // multiplos de tres
                     multiplosTres++;
 
                 i++;
