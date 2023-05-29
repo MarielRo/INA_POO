@@ -1,0 +1,2 @@
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio10_Mariel\Portafolio10_Mariel\Portafolio10_Mariel\obj\Debug\Portafolio10_Mariel.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\Portafolio_Mariel_Rojas\Portafolio10_Mariel\Portafolio10_Mariel\Portafolio10_Mariel\obj\Debug\Portafolio10_Mariel.csproj.CoreCompileInputs.cache
