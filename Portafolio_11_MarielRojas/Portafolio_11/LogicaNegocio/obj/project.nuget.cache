@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3onrjMVSEuxJ4SXPl6Y9Z7z/LC4gnldG52uKCa4EERLghzpaK5/CoRZzk2sCzVEC9EsT162l7r3xD8CQoFCjHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marie\\Desktop\\Portafolio_11_MarielRojas\\Portafolio_11\\LogicaNegocio\\LogicaNegocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

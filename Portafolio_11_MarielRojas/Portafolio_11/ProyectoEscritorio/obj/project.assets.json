@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LogicaNegocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/LogicaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogicaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogicaNegocio/1.0.0": {
+      "type": "project",
+      "path": "../LogicaNegocio/LogicaNegocio.csproj",
+      "msbuildProject": "../LogicaNegocio/LogicaNegocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LogicaNegocio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marie\\Desktop\\Portafolio_11_MarielRojas\\Portafolio_11\\ProyectoEscritorio\\ProyectoEscritorio.csproj",
+      "projectName": "ProyectoEscritorio",
+      "projectPath": "C:\\Users\\marie\\Desktop\\Portafolio_11_MarielRojas\\Portafolio_11\\ProyectoEscritorio\\ProyectoEscritorio.csproj",
+      "packagesPath": "C:\\Users\\marie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marie\\Desktop\\Portafolio_11_MarielRojas\\Portafolio_11\\ProyectoEscritorio\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\marie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\marie\\Desktop\\Portafolio_11_MarielRojas\\Portafolio_11\\LogicaNegocio\\LogicaNegocio.csproj": {
+              "projectPath": "C:\\Users\\marie\\Desktop\\Portafolio_11_MarielRojas\\Portafolio_11\\LogicaNegocio\\LogicaNegocio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
