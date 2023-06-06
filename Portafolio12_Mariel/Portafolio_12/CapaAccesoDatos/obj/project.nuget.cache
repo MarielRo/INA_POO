@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hn6IizMDT01OGmthpbvsOshzkEdsb0W/FFByFIosIUYlYvivKA+zov4N24QTwe0fgl0AhtdPKG+th1O81PSqbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marie\\Desktop\\Portafolio12_Mariel\\Portafolio_12\\CapaAccesoDatos\\CapaAccesoDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

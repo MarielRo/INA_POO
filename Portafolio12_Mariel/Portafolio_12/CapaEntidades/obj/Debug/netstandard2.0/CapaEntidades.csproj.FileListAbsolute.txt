@@ -1,0 +1,10 @@
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8ZTy3Wvd+tTMuXIGpugpXA11R4TGqbtL3cnhZqmDIUCouSPU6A+AqtyYEs6Bivbyz7AiCLMc4L4GS7XnSSgiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marie\\Desktop\\Portafolio12_Mariel\\Portafolio_12\\CapaEntidades\\CapaEntidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
