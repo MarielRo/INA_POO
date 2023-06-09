@@ -1,0 +1,15 @@
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaLogicaNegocio.deps.json
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaLogicaNegocio.dll
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaLogicaNegocio.pdb
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaAccesoDatos.dll
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaAccesoDatos.pdb
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.AssemblyInfo.cs
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.dll
+C:\Users\marie\Desktop\Portafolio12_Mariel\Portafolio_12\CapaLogicaNegocio\obj\Debug\netstandard2.0\CapaLogicaNegocio.pdb
