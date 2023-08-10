@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BD_TIENDA">
+  <DataContextMoniker Name="/BD_TIENDADataContext" />
+  <nestedChildShapes>
+    <classShape Id="f4d6927b-68e1-40db-bcf6-c911de1cf0c9" absoluteBounds="1.5, 1, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BD_TIENDADataContext/CLIENTES" />
+      <nestedChildShapes>
+        <elementListCompartment Id="698d1bea-af2b-4071-bdf7-7c8776bd6314" absoluteBounds="1.5150000000000001, 1.46, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="03dda56c-eb94-4837-aada-02054250e713" absoluteBounds="2.875, 4, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BD_TIENDADataContext/DETALLE_FACTURA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34dda842-9132-4333-a775-d6b265395ff7" absoluteBounds="2.89, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="76067773-1ee5-4080-8d4e-1e22a0b1fc18" absoluteBounds="0.5, 3.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BD_TIENDADataContext/ENCABEZADO_FACTURA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a5be6143-8a9c-460e-babc-ad69993a4a54" absoluteBounds="0.51500000000000012, 3.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 4.69314697265625); (2.875 : 4.69314697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BD_TIENDADataContext/ENCABEZADO_FACTURA/ENCABEZADO_FACTURA_DETALLE_FACTURA" />
+      <nodes>
+        <classShapeMoniker Id="76067773-1ee5-4080-8d4e-1e22a0b1fc18" />
+        <classShapeMoniker Id="03dda56c-eb94-4837-aada-02054250e713" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2 : 2.57859537760417); (2 : 3.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BD_TIENDADataContext/CLIENTES/CLIENTES_ENCABEZADO_FACTURA" />
+      <nodes>
+        <classShapeMoniker Id="f4d6927b-68e1-40db-bcf6-c911de1cf0c9" />
+        <classShapeMoniker Id="76067773-1ee5-4080-8d4e-1e22a0b1fc18" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5652ccbd-5298-4afc-96ff-bf41a9507f02" absoluteBounds="4, 1, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BD_TIENDADataContext/PRODUCTOS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9780d784-77ac-442f-971d-7dbb22e4d36b" absoluteBounds="4.015, 1.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.4375 : 2.77089680989583); (4.4375 : 4)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/BD_TIENDADataContext/PRODUCTOS/PRODUCTOS_DETALLE_FACTURA" />
+      <nodes>
+        <classShapeMoniker Id="5652ccbd-5298-4afc-96ff-bf41a9507f02" />
+        <classShapeMoniker Id="03dda56c-eb94-4837-aada-02054250e713" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
